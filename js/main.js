@@ -6,7 +6,7 @@ $(document).ready(function(){
         autoplay: true,
         autoplaySpeed: 2000,
         dots: true,
-        prevArrow: '<button type="button" class="slick-left"><img src="/images/arrow-1.png" alt=""></button>',
-        nextArrow: '<button type="button" class="slick-right"><img src="/images/arrow-2.png" alt=""></button>'
+        prevArrow: '<button type="button" class="slick-left"><img src="../images/arrow-1.png" alt=""></button>',
+        nextArrow: '<button type="button" class="slick-right"><img src="../images/arrow-2.png" alt=""></button>'
     });
   });
