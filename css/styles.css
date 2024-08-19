@@ -639,6 +639,8 @@ padding-top: 20px;
             flex-wrap: wrap;
             justify-content: center;
             max-width: 294px;
+            align-items: center;
+            margin: 0 auto;
         }
         .footer__logo img{
             margin-bottom: 20px;
