@@ -463,6 +463,9 @@ justify-content: center;
         .last__inner{
             flex-direction: column;
         }
+        .img-2 {
+        display: block;
+        }
         .img-2 img{
             display: block;
             width: 100%;
