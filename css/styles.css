@@ -209,11 +209,11 @@ justify-content: center;
 .steps__boxes {
     display: flex;
     align-items: center;
+    justify-content: space-between;
     gap: 20px;
 }
 .steps__box {
-    background-color: #CCC1B3;
-    padding: 24px 24px 16px 24px;
+    background-color: none;
 }
 .steps__box-img {
 }
