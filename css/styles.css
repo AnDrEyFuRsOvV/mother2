@@ -212,7 +212,7 @@ justify-content: center;
     gap: 20px;
 }
 .steps__box {
-    background-color: #E4E2D3;
+    background-color: #CCC1B3;
     padding: 24px 24px 16px 24px;
 }
 .steps__box-img {
@@ -335,7 +335,7 @@ justify-content: center;
 
     .footer {
         padding-top: 84px;
-        background-color: #E4E2D3;
+        background-color: #CCC1B3;
         padding-bottom: 50px;
     }
     .footer__inner {
