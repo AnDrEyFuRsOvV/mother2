@@ -659,3 +659,21 @@ padding-top: 20px;
             font-size: 15px;
         }
     }
+
+
+    @media(max-width: 400px){
+
+        h2.descr__title{
+            line-height: 30px;
+        }
+        p.steps__desr{
+            line-height: 18px;
+        }
+        .descr__text-line{
+            line-height: 18px;
+        }
+        li.last__list-item{
+            line-height: 18px;
+            margin-bottom: 13px;
+        }
+    }
